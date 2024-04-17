@@ -3,7 +3,7 @@
  
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Bootstrap` `Material-UI`
+**Frontend Development:** `React` `EJS` `Javascript` `Bootstrap` `Material-UI`
 
 **Design:** `Figma` `Canva`
  
@@ -25,3 +25,4 @@
 
  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/jan-komnik-81b4441aa/). 
  
+*Shoutout to [MirayaTech](https://github.com/mirayatech) for this Layout!*
