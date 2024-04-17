@@ -17,9 +17,9 @@
  
 ## ✨ Fun Facts 
 
-- Demon Slayer is my favorite anime.
-- As a teenie, I wanted to be an medical doctor.
-- I'm mainly developing on MacOS
+- I'm obsessed with creating music using MainStage and Logic Pro
+- As a teenie, I wanted to be a medical doctor.
+- I primarily develop on MacOS.
 
 ## 📫 Contact
 
