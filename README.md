@@ -9,7 +9,7 @@
  
 **Version Control:** `Git`
 
-**Backend Development:** `Node.js` `PostgreSQL` `Express.js` 
+**Backend Development:** `Node.js` `PostgreSQL` `Express.js` `Windows Server` `Ubuntu Server`
 
 **Testing:** `Postman`
 
