@@ -13,7 +13,9 @@
 
 **Testing:** `Postman`
 
-**Others:** `Trello` `Zapier` `Confluence` `Jira` `Embedded Systems/IoT` `PCB-Design and Development`
+**Project Management** `Trello` `Confluence` `Jira`
+
+**Others:** `Zapier` `Embedded Systems/IoT` `PCB-Design and Development` `Docker`
  
 ## ✨ Fun Facts 
 
