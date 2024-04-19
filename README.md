@@ -13,7 +13,7 @@
 
 **Testing:** `Postman`
 
-**Project Management** `Trello` `Confluence` `Jira`
+**Project Management:** `Trello` `Confluence` `Jira`
 
 **Others:** `Zapier` `Embedded Systems/IoT` `PCB-Design and Development` `Docker`
  
