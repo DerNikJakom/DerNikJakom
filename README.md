@@ -16,12 +16,13 @@
 **Project Management:** `Trello` `Confluence` `Jira` `OpenProject`
 
 **Others:** `Zapier` `Embedded Systems/IoT` `PCB-Design and Development` `Docker`
+
+**Environment** `MacOS` `Visual Studio Code` `NeoVim`
  
 ## ✨ Fun Facts 
 
 - I'm obsessed with creating music using MainStage and Logic Pro
 - As a teenie, I wanted to be a medical doctor.
-- I primarily develop on MacOS.
 
 ## 📫 Contact
 
