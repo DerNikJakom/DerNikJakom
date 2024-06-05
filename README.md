@@ -3,17 +3,17 @@
  
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `EJS` `Javascript` `Bootstrap` `Material-UI`
+**Frontend Development:** `React` `EJS` `Javascript` `Typescript` `Bootstrap` `Material-UI`
 
 **Design:** `Figma` `Canva`
  
-**Version Control:** `Git`
+**Version Control:** `Git` `GitHub` `GitLab`
 
 **Backend Development:** `Node.js` `PostgreSQL` `Express.js` `Windows Server` `Ubuntu Server`
 
 **Testing:** `Postman`
 
-**Project Management:** `Trello` `Confluence` `Jira`
+**Project Management:** `Trello` `Confluence` `Jira` `OpenProject`
 
 **Others:** `Zapier` `Embedded Systems/IoT` `PCB-Design and Development` `Docker`
  
